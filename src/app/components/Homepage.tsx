@@ -13,7 +13,7 @@ export default function HeroPage() {
                 <IconCloud />
                 <div className="flex flex-col items-center justify-center ">
                     <Hero />
-                    <ShinyButton text="Resume" link="https://drive.google.com/file/d/160E4XeU7DHbpqLpCSMVBswk1Pu_oTk63/view?usp=sharing" />
+                    <ShinyButton text="Resume" link="https://drive.google.com/file/d/1xQyS2aoo7aXSdJncODTYRbIn7mzVlcVG/view?usp=sharing" />
                     <div className="flex flex-row items-center justify-center mt-4 md:mt-6 mr-8 w-full">
                         <AnimatedTooltip items={socials} />
                     </div>
