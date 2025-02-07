@@ -152,6 +152,15 @@ export const socials = [
 
 export const WorkExpcontents = [
   {
+    title: "Backend Developer Intern - Uniteam.us",
+    description: [
+      "Developed and optimized RESTful APIs using Python, Flask, and Pydantic, ensuring efficient data validation and seamless communication between systems.",
+      "Designed and improved the PostgreSQL database ER model, identified and resolved anomalies, and created a custom ORM for internal use to enhance database interactions.",
+      "Contributed to the development of a notification and alert system, improving real-time monitoring and user engagement across company services."
+    ],
+    date: "Oct 2024 - Feb 2024",
+  },
+  {
     title: "SDE Intern - HP Enterprise",
     description: [
       "Architected a client-server system for a 5G Traffic Classifier project using Node.js and HTTP-2, optimizing data handling and communication efficiency for over 500+ data points",
